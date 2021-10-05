@@ -1,0 +1,22 @@
+{
+    "name": "xeki-tech/config",
+    "type": "library",
+    "description": "Config envs xeki",
+    "keywords": ["templating"],
+    "homepage": "https://xeki.tech/config",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Xeki Team",
+            "role": "Contributors"
+        },
+        {
+            "name": "Luis Patt",
+            "role": "Project Founder"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "vlucas/phpdotenv": "^3.3"
+    }  
+}
