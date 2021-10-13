@@ -1,5 +1,9 @@
 # config
 
+## install
+composer require xeki-tech/config
+ 
+## use
 Example use 
 ```
 $config = \xeki\module_manager::import_module('config');
